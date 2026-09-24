@@ -1,58 +1,53 @@
 # 🚀 Portfólio Profissional | Luiz Eduardo Monteiro Cotta Ribeiro
 
-> Aplicação web responsiva desenvolvida para apresentar projetos em produção, soluções SaaS e competências em desenvolvimento Full Stack e Engenharia de Software.
-
+> Aplicação web responsiva desenvolvida para apresentar projetos em produção, interfaces reativas e competências especializadas em **Desenvolvimento Front-End (React, Next.js, TypeScript e Tailwind CSS)**.
 
 ---
 
 ## 🔗 Links Rápidos
-- **Site Online / Deploy:** [agendamentocerto.com.br](https://agendamentocerto.com.br/)
 - **LinkedIn:** [linkedin.com/in/luizeduardomonteirocotta](https://www.linkedin.com/in/luizeduardomonteirocotta/)
-- **Currículo (PDF):** `curriculo-luiz-eduardo.pdf` (disponível para download na raiz do repositório)
+- **SaaS Principal (Agendamento Certo):** [agendamentocerto.com.br](https://agendamentocerto.com.br/)
+- **Currículo (PDF):** `curriculo-luiz-eduardo.pdf` (disponível na raiz do repositório)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas Utilizadas
+## 🛠️ Tecnologias & Ferramentas Front-End
 
-### **Frontend & UI/UX**
-- **HTML5 & CSS3:** Semântica avançada, Flexbox, CSS Grid e design responsivo (Mobile First).
-- **JavaScript (ES6+):** Manipulação dinâmica do DOM e eventos.
-- **Tailwind CSS:** Estilização utilitária e componentes performáticos.
-- **FontAwesome:** Iconografia técnica.
+### **Core Front-End**
+- **React & Next.js:** Construção de aplicações reativas, Server/Client Components e roteamento otimizado.
+- **TypeScript:** Tipagem estática para garantia de qualidade e prevenção de erros em tempo de desenvolvimento.
+- **Tailwind CSS & CSS3:** Estilização utilitária, design responsivo (Mobile-First) e interfaces modernas.
+- **JavaScript (ES6+):** Manipulação avançada do DOM, async/await e lógica de componentes.
 
-### **Projetos SaaS & Backend Integrado**
-- **Next.js & React:** Frameworks para renderização otimizada e componentes reativos.
-- **TypeScript:** Tipagem estática para maior segurança no código.
-- **Supabase:** Backend-as-a-Service (PostgreSQL, Supabase Auth e Row Level Security).
-
-### **Performance, Otimização & Métricas**
-- **SEO Técnico:** Meta tags Open Graph, dados estruturados para motores de busca e otimização local.
-- **Web Vitals & Performance:** Foco em carregamento rápido, acessibilidade e SEO.
-- **Google Analytics 4 (GA4):** Mapeamento de métricas e conversões de usuário.
+### **Integrações & Ferramentas**
+- **APIs RESTful & Supabase Client:** Consumo de dados assíncronos, gerenciamento de estado e autenticação.
+- **Git & GitHub:** Versionamento de código, gestão de ramificações (branches) e boas práticas de commits.
+- **Vercel & Netlify:** CI/CD, deploys contínuos e hospedagem de aplicações front-end.
+- **Performance & SEO:** Métricas Core Web Vitals, otimização de imagens, dados estruturados e GA4.
 
 ---
 
 ## 📂 Projetos em Destaque no Portfólio
 
-1. **Agendamento Certo (SaaS):** Sistema completo de agendamentos online e gestão em tempo real com autenticação via Supabase e banco PostgreSQL.
-2. **Pet Pokka:** Plataforma comercial responsiva para centro veterinário e estética pet.
-3. **Innovate Derm:** Portal para clínica de estética avançada com foco em performance e captura de leads.
-4. **CEG Tintas Automotivas:** Catálogo de produtos com otimização em SEO local.
+1. **Agendamento Certo (SaaS):** Dashboard administrativo interativo e fluxo de agendamentos reativo construído com Next.js, React, TypeScript, Tailwind CSS e Supabase.
+2. **Pet Pokka:** Plataforma web responsiva focada em experiência do usuário (UX) e conversão para centro veterinário.
+3. **Innovate Derm:** Portal para clínica de estética avançada com foco em performance visual e captura de leads.
+4. **CEG Tintas Automotivas:** Catálogo de produtos com SEO local otimizado e carregamento instantâneo.
 5. **Lokal Baterias:** Solução comercial integrada com API de atendimento via WhatsApp.
-6. **Pousada Mascattes:** Portal institucional com integração de motor de reservas.
+6. **Pousada Mascattes:** Portal institucional com interface intuitiva para reservas e alta velocidade mobile.
 
 ---
 
 ## 👨‍💻 Sobre o Desenvolvedor
 
 **Luiz Eduardo Monteiro Cotta Ribeiro**
-- **Bacharel em Administração de Empresas** & **MBA em Gestão Estratégica de Negócios** (Universidade FUMEC).
-- **Desenvolvedor Full Stack** na [Avant Digital](https://agendamentocerto.com.br/).
-- União entre **arquitetura de software moderna** e **visão de negócios/ROI**, focado em entregar código limpo, seguro e escalável.
+- **Desenvolvedor Front-End** focado no ecossistema React/Next.js[cite: 1].
+- **Bacharel em Administração de Empresas** & **MBA em Gestão Estratégica de Negócios** (Universidade FUMEC)[cite: 1].
+- União entre **execução técnica no Front-End** e **visão corporativa**, entregando componentes reutilizáveis, organizados e orientados à melhor experiência do usuário[cite: 1].
 
 ---
 
-## ⚙️ Como Rodar o Projeto Localmente
+## ⚙️ Como Executar o Projeto Localmente
 
 1. Clone este repositório:
    ```bash
