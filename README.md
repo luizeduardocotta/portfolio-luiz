@@ -2,7 +2,6 @@
 
 > Aplicação web responsiva desenvolvida para apresentar projetos em produção, soluções SaaS e competências em desenvolvimento Full Stack e Engenharia de Software.
 
-![Preview do Portfólio](https://raw.githubusercontent.com/luizeduardocotta/portfolio-luiz/main/assets/preview.png) <!-- Opcional: adicione uma imagem/print do site aqui -->
 
 ---
 
